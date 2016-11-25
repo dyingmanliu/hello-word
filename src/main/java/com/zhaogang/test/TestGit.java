@@ -12,5 +12,6 @@ public class TestGit {
 
 
         System.out.println("commit 5");
+        System.out.println("commit 6");
     }
 }
