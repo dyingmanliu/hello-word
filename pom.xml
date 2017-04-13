@@ -5,8 +5,16 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.test</groupId>
-    <artifactId>hello-wh</artifactId>
+    <artifactId>hello-world</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.rabbitmq</groupId>
+            <artifactId>amqp-client</artifactId>
+            <version>3.6.5</version>
+        </dependency>
+    </dependencies>
 
 
 </project>
