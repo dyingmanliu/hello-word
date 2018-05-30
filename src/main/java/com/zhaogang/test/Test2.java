@@ -5,4 +5,5 @@ package com.zhaogang.test;
  */
 public class Test2 {
     String i = "test v1.1.0";
+    String b = "hotfix";
 }
