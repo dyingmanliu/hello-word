@@ -17,5 +17,7 @@ public class TestGit {
         System.out.println("thread 9");
 
         System.out.println("test 2018-03-14_000");
+
+        System.out.printf("test 2018-050-30");
     }
 }
