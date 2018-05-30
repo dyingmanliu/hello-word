@@ -15,5 +15,7 @@ public class TestGit {
         System.out.println("commit 8");
 
         System.out.println("test 9");
+
+        System.out.printf("test 2018-05-30");
     }
 }
