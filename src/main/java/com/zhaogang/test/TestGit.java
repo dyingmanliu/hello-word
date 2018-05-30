@@ -18,7 +18,11 @@ public class TestGit {
 
         System.out.println("test 2018-03-14_000");
 
+        System.out.printf("test v1.0.2 hotfix");
+
         System.out.printf("test 2018-050-30");
+
+        System.out.printf("test hotfix v1.0.1 new");
 
         System.out.printf("test v1.0.0");
 
