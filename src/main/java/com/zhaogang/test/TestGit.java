@@ -20,6 +20,6 @@ public class TestGit {
 
         System.out.printf("test 2018-050-30");
 
-        System.out.printf("test v1.0.0");
+        System.out.printf("test hotfix v1.0.1 new");
     }
 }
