@@ -14,8 +14,8 @@ public class TestGit {
         System.out.println("commit 5");
         System.out.println("commit 8");
 
-        System.out.println("test 9");
+        System.out.println("thread 9");
 
-        System.out.printf("test 2018-05-30");
+        System.out.println("test 2018-03-14_000");
     }
 }
